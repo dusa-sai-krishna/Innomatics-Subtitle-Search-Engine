@@ -1,0 +1,8 @@
+numpy
+pandas
+nltk
+chromadb
+sentence-transformers
+tqdm
+streamlit
+google-generativeai
