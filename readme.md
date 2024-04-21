@@ -41,7 +41,8 @@ This project is a semantic search engine built using Python 3.9, designed to ret
 
 ## Note
 
-The database file is too large to be provided within GitHub. If anyone wants the database, feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dusasai/).
+The database file is too large to be provided within GitHub. If anyone wants the database, feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dusasai/) 
+[LinkedIn](www.linkedin.com/in/nithinkatukoori).
 
 
 
