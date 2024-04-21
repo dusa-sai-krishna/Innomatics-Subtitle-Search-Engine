@@ -1,5 +1,5 @@
 import streamlit as st
-import streamlit_scrollable_textbox as stx
+import streamlit_scrollable_textbox as stx 
 from utils import text_preprocessing, getResults, getDetails
 import re
 import numpy as np
